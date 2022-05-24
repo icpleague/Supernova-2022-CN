@@ -19,16 +19,16 @@
 
 ### Youtube上的黑客松工作坊录屏
 
-- [Supernova Hackathon | Workshop #1 (v.1): Intro to Building on the Internet Computer - Motoko & Rust](https://www.youtube.com/watch?v=7AdUKzZU5-A)
-- [Supernova Hackathon | Workshop #1 (v.2): Intro to Building on the Internet Computer - Motoko & Rust](https://www.youtube.com/watch?v=szSR0rW2CbQ)
-- [Supernova Hackathon | Workshop #2 (v.1): Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s)
-- [Supernova Hackathon | Workshop #2 (v.2): Frontends on the Internet Computer](https://www.youtube.com/watch?v=M_cO-Fmh8ZI)
-- [Supernova Hackathon | Workshop #3 (v.1): Build an Encrypted Notes Dapp](https://www.youtube.com/watch?v=I14cU7OlhmE)
-- [Supernova Hackathon | Workshop #3 (v.2): Build an Encrypted Notes Dapp](https://www.youtube.com/watch?v=UPYiub3HTLI)
-- [Supernova Hackathon | Workshop #4 (v.1): Mint an NFT](https://www.youtube.com/watch?v=GLXCNl9Xpu4)
-- [Supernova Hackathon | Workshop #4 (v.2): Mint an NFT](https://www.youtube.com/watch?v=VGLcBISCB3Y)
-- [Supernova Hackathon | Workshop #5 (v.1): Build a DeFi Use Case](https://www.youtube.com/watch?v=hKRi0KSgMN0)
-- [Supernova Hackathon | Workshop #5 (v.2): Build a DeFi Use Case](https://www.youtube.com/watch?v=HftK4xnlSs0)
+- [Supernova Hackathon | Workshop #1 (v.1): 在互联网计算机上构建的介绍 - Motoko & Rust](https://www.youtube.com/watch?v=7AdUKzZU5-A)
+- [Supernova Hackathon | Workshop #1 (v.2): 在互联网计算机上构建的介绍 - Motoko & Rust](https://www.youtube.com/watch?v=szSR0rW2CbQ)
+- [Supernova Hackathon | Workshop #2 (v.1): 互联网计算机的前端](https://www.youtube.com/watch?v=rjSDvTaEj3s)
+- [Supernova Hackathon | Workshop #2 (v.2): 互联网计算机的前端](https://www.youtube.com/watch?v=M_cO-Fmh8ZI)
+- [Supernova Hackathon | Workshop #3 (v.1): 搭建一个加密笔记Dapp](https://www.youtube.com/watch?v=I14cU7OlhmE)
+- [Supernova Hackathon | Workshop #3 (v.2): 搭建一个加密笔记Dapp](https://www.youtube.com/watch?v=UPYiub3HTLI)
+- [Supernova Hackathon | Workshop #4 (v.1): 铸造一个NFT](https://www.youtube.com/watch?v=GLXCNl9Xpu4)
+- [Supernova Hackathon | Workshop #4 (v.2): 铸造一个NFT](https://www.youtube.com/watch?v=VGLcBISCB3Y)
+- [Supernova Hackathon | Workshop #5 (v.1): 搭建一个DeFi用例](https://www.youtube.com/watch?v=hKRi0KSgMN0)
+- [Supernova Hackathon | Workshop #5 (v.2): 搭建一个DeFi用例](https://www.youtube.com/watch?v=HftK4xnlSs0)
 
  ### 如果你需要帮助
 
