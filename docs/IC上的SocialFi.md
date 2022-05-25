@@ -17,7 +17,7 @@
 - **流媒体**
   - [Dsocial](https://dsocial.app/): 类似Youtube的视频流
   - [GoBazzinga](https://gobazzinga.io/): 代币化的TikTok
-- 集体所有的评价平台
+- **集合所有的评价平台**
   - [Crowdeats](https://www.crowdeats.io/): 我们拥有的 Yelp 
 - [社交](https://dfinity.org/showcase/?tag=social)展示的**更多灵感**
 
