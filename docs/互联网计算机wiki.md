@@ -130,4 +130,3 @@ slug: /
 1.  https://medium.com/dfinity/the-internet-computers-transaction-speed-and-finality-outpace-other-l1-blockchains-8e7d25e4b2ef
 
 
-
