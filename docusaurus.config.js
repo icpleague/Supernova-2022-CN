@@ -9,7 +9,7 @@ const config = {
   title: 'ICP中文wiki',
   //tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/icp-wiki/',
+  baseUrl: '/Supernova-2022-CN/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -39,7 +39,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'ICP中文wiki',
+        title: 'ICP Supernova 黑客松中文资料',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -54,7 +54,7 @@ const config = {
           },
           */
           {
-            href: 'https://github.com/icpleague/icp-wiki',
+            href: 'https://github.com/icpleague/Supernova-2022-CN',
             label: 'GitHub',
             position: 'right',
           },
